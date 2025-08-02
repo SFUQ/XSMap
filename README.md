@@ -49,10 +49,15 @@ https://site.com/search.php?q=Test
 # Options :
 
 – Reflected XSS
+
 – DOM XSS
+
 – Custom payload
+
 – AI payloads
+
 – Dynamic scan
+
 – Exit
 
 # Warning :
