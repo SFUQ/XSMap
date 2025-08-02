@@ -1,6 +1,6 @@
 # XSmap :
 
-(XSmap) is a Simple Tools to Test For XSS Bugs , It Supports Multiple Types OF XSS Detection And Is Designed to Be used from the command line with a Clean Interface Use Ful For BugBounty, Pentesting, Or Learning WebSec
+(XSmap) is a Simple Tools to Test For XSS Bugs , It Supports Multiple Types OF XSS Detection And Is Designed to Be used from the command line with a Clean Interface Use Ful For BugBounty , Pentesting , Or Learning WebSite
 
 # Features :
 
