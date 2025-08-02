@@ -48,17 +48,17 @@ https://site.com/search.php?q=Test
 
 # Options :
 
-– Reflected XSS
+• Reflected XSS
 
-– DOM XSS
+• DOM XSS
 
-– Custom payload
+• Custom payload
 
-– AI payloads
+• AI payloads
 
-– Dynamic scan
+• Dynamic scan
 
-– Exit
+• Exit
 
 # Warning :
 
