@@ -16,6 +16,18 @@
 git clone https://github.com/SFUQ/XSMap
 ```
 ```bash
+python3 -m venv XSmap
+```
+```bash
+source XSmap/bin/activate
+```
+```bash
+cd XSMap
+```
+```bash
+ls
+```
+```bash
 pip install -r requirements.txt
 ```
 ```bash
