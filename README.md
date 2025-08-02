@@ -14,9 +14,14 @@
 
 ```bash
 git clone https://github.com/SFUQ/XSMap
+```
+```bash
 pip install -r requirements.txt
+```
+```bash
 playwright install
 ```
+
 # Run :
 
 ```bash
