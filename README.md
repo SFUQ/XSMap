@@ -13,6 +13,7 @@
 # Install :
 
 ```bash
+git clone https://github.com/SFUQ/XSMap
 pip install -r requirements.txt
 playwright install
 ```
